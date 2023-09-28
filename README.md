@@ -22,6 +22,7 @@
  <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
+##
 
 <div>
 <a href="https://github.com/Evelynsuzarte">
@@ -29,5 +30,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynsuzarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-#
+<div>
 <img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
+</div>
+
