@@ -1,5 +1,6 @@
-<img align="right" width="250px" style="margin-top:-20px" src="images/img2.png">
-## Oi oi gente, sejam bem vindos! Esse é meu perfil no GitHub 👋
+<img align="left" width="260px" style="margin-top:-20px" src="images/img2.png">
+
+# Oi oi gente, sejam bem vindos! Esse é meu perfil no GitHub 👋
 
 - 👩🏽‍💻 Me chamo Evelyn Suzarte
 - 📚 Sou estudante de Bacharelado em Engenharia de Computação desde 2018.2
