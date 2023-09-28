@@ -1,4 +1,4 @@
-<img align="left" width="240px" style="margin-top:-20px" src="images/img2.png">
+<img align="left" width="260px" style="margin-top:-20px" src="images/img2.png">
 
 # Oi oi gente, sejam bem vindos! Esse é meu perfil no GitHub 👋
 
