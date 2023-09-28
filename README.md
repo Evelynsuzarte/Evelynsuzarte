@@ -1,4 +1,4 @@
-<img align="left" width="250px" style="margin-top:-20px" src="images/img2.png">
+<img align="left" width="260px" style="margin-top:-20px" src="images/img2.png">
 
 # Oi oi gente, sejam bem vindos! Esse é meu perfil no GitHub 👋
 
@@ -7,9 +7,6 @@
 - 💬 Pergunte-me algo caso tenha dúvidas ou deseja mais informações
 - 📫 Entre em contato comigo através do LinkedIn no botão abaixo
 - ⚡ Uma curiosidade sobre mim: amo jogos!!
-
-##
-
 
 
 ## Tecnologias e ferramentas
