@@ -1,4 +1,4 @@
-<img align="left" width="260px" style="margin-top:-20px" src="images/img2.png">
+<img align="left" width="250px" style="margin-top:-20px" src="images/img2.png">
 
 # Oi oi gente, sejam bem vindos! Esse é meu perfil no GitHub 👋
 
@@ -8,6 +8,7 @@
 - 📫 Entre em contato comigo através do LinkedIn no botão abaixo
 - ⚡ Uma curiosidade sobre mim: amo jogos!!
 
+##
 ## Tecnologias e ferramentas
 - Python
 - C
@@ -22,7 +23,7 @@
  <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
-<img align="right" width="250px" style="margin-top:-20px" src="images/img1.png">
+<img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
 
 <div>
 <a href="https://github.com/Evelynsuzarte">
