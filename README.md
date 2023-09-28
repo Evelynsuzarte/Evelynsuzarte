@@ -22,7 +22,9 @@
  <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
+#
 <img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
+#
 
 <div>
 <a href="https://github.com/Evelynsuzarte">
