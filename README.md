@@ -18,11 +18,10 @@
 - FastApi
 
 <div> 
- <a href= "https://www.linkedin.com/in/evelyn-suzarte-008b7b181/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
-</div>
+
 
 ##
+<img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
 
 <div>
 <a href="https://github.com/Evelynsuzarte">
@@ -30,7 +29,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynsuzarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-<div>
-<img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
+ #
+ <a href= "https://www.linkedin.com/in/evelyn-suzarte-008b7b181/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
