@@ -9,6 +9,7 @@
 - ⚡ Uma curiosidade sobre mim: amo jogos!!
 
 ##
+##
 ## Tecnologias e ferramentas
 - Python
 - C
