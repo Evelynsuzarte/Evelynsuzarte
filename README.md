@@ -8,12 +8,6 @@
 - 📫 Entre em contato comigo através do LinkedIn no botão abaixo
 - ⚡ Uma curiosidade sobre mim: amo jogos!!
 
-<p>
-
-
-.
-</p>
-
 ## Tecnologias e ferramentas
 - Python
 - C
