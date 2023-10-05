@@ -17,21 +17,25 @@
 - Docker
 - FastApi
  
-<div> 
-<img align="right" width="300px" style="margin-top:-20px" src="images/img1.png">
-</div>
+
 
 <div>
-<a href="https://github.com/Evelynsuzarte">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelynsuzarte&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynsuzarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
- #
- <a href= "https://www.linkedin.com/in/evelyn-suzarte-008b7b181/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://github.com/Evelynsuzarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelynsuzarte&layout=compact&langs_count=7&theme=dracula"/>
 
-<p><img align="center" src="https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/67832d36e02206433cabc8d7e58649981f198559/github-contribution-grid-snake-dark.svg" width="1000px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynsuzarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div> 
+  <img align="center" width="300px" style="margin-top:-20px" src="images/img1.png">
+</div>
+
+ ##
+ 
+<div> 
+  <a href= "https://www.linkedin.com/in/evelyn-suzarte-008b7b181/"> <img  align="down" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
+  
+  <p><img align="center" src="https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/67832d36e02206433cabc8d7e58649981f198559/github-contribution-grid-snake-dark.svg" width="1000px" />
 
   <!--[Snake animation](https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/67832d36e02206433cabc8d7e58649981f198559/github-contribution-grid-snake-dark.svg)-->
 
