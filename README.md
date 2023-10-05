@@ -29,17 +29,11 @@
  
  #
  <a href= "https://www.linkedin.com/in/evelyn-suzarte-008b7b181/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<<<<<<< Updated upstream
  
-=======
+  <!--[Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)-->
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[Snake animation](https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/output/github-contribution-grid-snake2.svg)
 
->>>>>>> Stashed changes
- [Snake animation](https://github.com/Evelynsuzarte/Evelynsuzarte/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/output/github-contribution-grid-snake2.svg" width="100px" />
 </div>
 
