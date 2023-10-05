@@ -35,6 +35,5 @@
 
   <!--[Snake animation](https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/67832d36e02206433cabc8d7e58649981f198559/github-contribution-grid-snake-dark.svg)-->
 
-<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Evelynsuzarte/Evelynsuzarte/output/github-contribution-grid-snake2.svg" width="100px" />
 </div>
 
