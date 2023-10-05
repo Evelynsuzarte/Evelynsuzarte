@@ -4,6 +4,7 @@
 
 - 👩🏽‍💻 Me chamo Evelyn Suzarte
 - 📚 Sou estudante de Bacharelado em Engenharia de Computação desde 2018.2
+- 🤖 Membra do IEEE / RAS IEEE
 - 💬 Pergunte-me algo caso tenha dúvidas ou deseja mais informações
 - 📫 Entre em contato comigo através do LinkedIn no botão abaixo
 - ⚡ Uma curiosidade sobre mim: amo jogos!!
