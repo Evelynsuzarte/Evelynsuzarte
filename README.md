@@ -16,8 +16,11 @@
 
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+com+Intelig%C3%AAncia+Artificial;Vis%C3%A3o+Computacional+%7C+Deep+Learning+%7C+Agentic+AI;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
+</p>
 
-
+---
 
 <h3 align="center">Stacks & Ferramentas</h3>
 <p align="center">
