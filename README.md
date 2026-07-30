@@ -8,7 +8,7 @@
 </p>
 
 - 🎓 Graduanda em Engenharia de Computação na Universidade Estadual de Feira de Santana - UEFS
-- Atualmente backend com um pezinho no frontend, estudando pra ser fullstack
+- 💻 Atualmente backend com um pezinho no frontend, estudando pra ser fullstack
 - 💼 Atuei em estágios na área de **desenvolvimento** e **dados**
 - 🧠 TCC sobre reconhecimento de vídeo em **Libras** usando modelos de redes neurais de **ResNet50 + LSTM**
 - 📍 Feira de Santana, Bahia — Brasil
