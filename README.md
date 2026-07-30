@@ -57,37 +57,51 @@
 ### 🚀 Sobre mim
 
 - 🎓 Graduanda em Computação, com foco em **Inteligência Artificial**, **Visão Computacional** e **Deep Learning**
-- 💼 Atualmente em um estágio técnico desenvolvendo **fluxos de IA agêntica** para automação de processos
+- 💼 No 3º estágio, atuando na área de **dados**, dando suporte às áreas de clientes e materiais com **SAP** e propondo automações de tarefas
+- 🤖 Ex-vice-presidente da **Liga de Robótica RAS (IEEE)**, onde promovi workshops e treinamentos de Programação, Arduino e Circuitos Digitais
+- 📚 Realizei **2 Iniciações Científicas** (Educação nas Engenharias e Engenharia de Computação) e fui **monitora** de Python para alunos do ensino médio
+- 💻 Formação prática em **Bootcamp Back-End Python/Django** (4 meses) e **Bootcamp Fullstack Elastech** (Java, Spring Boot, HTML, CSS, JS, Banco de Dados)
 - 🧠 TCC sobre reconhecimento de **Libras** usando arquitetura **ResNet50 + LSTM**
-- 🛠️ Gosto de transformar ideias em **soluções práticas e funcionais**, não só teoria
+- 🛠️ Já passei por estágios em **SRE** e **Desenvolvimento** (Python, APIs, Web Scraping) — sempre buscando crescer e atuar em projetos reais de impacto
+- 🧩 Atenta aos detalhes, organizada, com visão de liderança e autonomia para conduzir projetos — em equipe ou individualmente
 - 📍 Feira de Santana, Bahia — Brasil
+- 🔍 Aberta a novas oportunidades para crescer academicamente e profissionalmente
 
 ---
 
 ### 🧰 Stacks & Ferramentas
 
+**🟢 Intermediário**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
 </p>
+
+**🟡 Básico**
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-0F9BCB?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+| Nível | Tecnologias |
+|-------|-------------|
+| 🟢 Intermediário | Python, C, Java, APIs, Banco de Dados, Linux, Arduino, Word (Pacote Office) |
+| 🟡 Básico | JavaScript, HTML, CSS, DOM, SQL, PHP, Excel (Pacote Office), Alteryx, Tableau |
 
 ---
 
@@ -131,4 +145,13 @@
 
 ---
 
-<p align="center"><i>"Prefiro código funcionando a slide bonito." 🚀</i></p>
+<div align="center">
+  <a href="https://github.com/Evelynsuzarte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evelynsuzarte&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evelynsuzarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center"> 
+  <img  width="250px" style="margin-top:20px" src="images/img1.png">
+</div>
+
