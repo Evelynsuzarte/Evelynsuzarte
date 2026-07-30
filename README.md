@@ -16,11 +16,7 @@
 
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+com+Intelig%C3%AAncia+Artificial;Vis%C3%A3o+Computacional+%7C+Deep+Learning+%7C+Agentic+AI;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
-</p>
 
----
 
 
 <h3 align="center">Stacks & Ferramentas</h3>
@@ -41,12 +37,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Alteryx-0F9BCB?style=for-the-badge&logo=alteryx&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evelynsuzarte&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
